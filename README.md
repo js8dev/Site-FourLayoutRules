@@ -1,2 +1,2 @@
 # secondSite
-This is my second site. Made a bunch of html + css
+This is my second site - Four Layout Rules. Made a bunch of html + css.
